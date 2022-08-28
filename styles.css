@@ -1,3 +1,7 @@
+.navbar-collapse button{
+    display: flex;
+    left: 0;
+}
 .logo img{
     width: 5rem;
     height: 7rem;
